@@ -1,1 +1,1 @@
-# Radish-elf.github.io
+<input placeholder="请输入内容 . . ." style="width:100%;height:240px;padding:24px;padding-bottom:190px;box-sizing:border-box;font-weight:bold;font-size:16px !important;line-height:26px;color:inherit !important;" class="textColor" spellcheck="false" autocomplete="off" onfocus="inputholdermain=Objs.syncHolder.syncPromptHolderInput;" onkeydown="if(event.keyCode==13){Objs.syncHolder.syncPromptHolderConfirm.click();}" type="text" maxlength="32">
