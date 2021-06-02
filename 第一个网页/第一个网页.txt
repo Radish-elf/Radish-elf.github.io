@@ -1,0 +1,296 @@
+<!doctype html>
+<html><head>
+<meta charset="utf-8">
+
+	
+	
+	
+<title>这是个网站</title>
+
+</head>
+
+
+
+<body background="Ysddun.gif">
+<img src="Ysddun.gif" width="236" height="272" alt=""/>
+	
+ 
+	
+ <style>
+                        body{
+                                text-align:center;
+                        }
+                </style>
+        </head>
+
+        
+                <h1><font color="FF5809">这是我用Dw做的第一个网站</font></h1>
+                <hr />
+	            <h2><font color="05d9d9">我的偶像：</font><font color="sadasd"><font color=red>iirose.com<font><font color="sadasd">的站长</font><font color="red">“Ruby”</font></h2>
+	            <h2><font color="05d9d9">我的目标：</font><font color="sadasd">创建一个属于自己的聊天网站，并成为<font color=red#000000>“蔷薇花园”<font><font color="sadasd">的管理员</font></h2>
+                
+                
+<hr> 
+<br>
+<br>
+					<br>
+<br>
+					<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<h2 align="center"><font color="sdafjh">我来学习HTML了</font><font color="E23127">，一起加油吧！</font></h2>
+					<hr font color="E23127" size="5px" noshade=true />
+<h1 align="center"><font color="asdfgjh">旗</font></br><font color="sadfsdfh">开</font></br><font color="5B00AE">得</font></br><font color="FF5151
+">胜</font></h1>
+	<font color="66ccff">
+
+		
+		
+
+		
+		
+<hr font color="E23127" size="5px" noshade=true />
+<center>
+<br>
+<br>
+<br>
+<br>
+  <table><tr align="left">
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /￣￣￣＼                              
+|  Ծ  Ծ |   / ￣￣￣￣￣￣￣￣￣￣￣＼
+ \    ✓  /  /  亲爱的小张同学，        \
+ ＼     /  イ你已经半个小时没学习了    /
+  ／    ＼   \  生产队的驴都不敢这样歇着/  
+ /        \   \ _ __ ___ __ _ __ __    /   
+/          \                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+	  
+	  
+	  
+	  
+	  <audio controls autoplay  loop="loop">     <source src="明野.mp3" type="audio/mpeg" >    </audio>
+
+
+
+<tr></table>
+  <video width="1920" height="1080" controls="controls"  autoplay="autoplay" loop="loop" id="video" x-webkit-airplay="true" webkit-playsinline="true" muted="" >
+    <source src="mopemope壁纸.mp4" type="video/mp4">
+  </video>
+<pre>
+
+      🔵🔵
+      🔵🙂🔵
+      🔵🔵
+       |
+       🌿|🌿
+        。。。
+         。。。
+         。。。
+         。。。
+        。。。
+       。。。
+      。。。
+     。。。
+    。。。
+   。。。
+  。。。
+ 。。。
+。。。
+。。。
+。。。
+ 。。。
+  。。。
+   。。。
+    。。。
+     。。。
+      。。。
+       。。。
+        。。。
+         。。。
+         。。。
+         。。。
+        。。。
+       。。。
+      。。。
+     。。。
+    。。。
+   。。。
+  。。。
+ 。。。
+。。。
+。。。
+。。。
+ 。。。
+  。。。
+   。。。
+    。。。
+     。。。
+      。。。
+       。。。
+        。。。
+         。。。
+         。。。
+         。。。
+        。。。
+       。。。
+      。。。
+     。。。
+    。。。
+   。。。
+  。。。
+ 。。。
+。。。
+。。。
+。。。
+ 。。。
+  。。。
+   。。。
+    。。。
+     。。。
+      。。。
+       。。。
+        。。。
+         。。。
+         。。。
+         。。。
+        。。。
+       。。。
+      。。。
+     。。。
+    。。。
+   。。。
+  。。。
+ 。。。
+。。。
+。。。
+。。。
+ 。。。
+  。。。
+   。。。
+    。。。
+     。。。
+      。。。
+       。。。
+        。。。
+         。。。
+         。。。
+         。。。
+        。。。
+       。。。
+      。。。
+     。。。
+    。。。
+   。。。
+  。。。
+ 。。。
+。。。
+。。。
+。。。
+ 。。。
+  。。。
+   。。。
+    。。。
+     。。。
+      。。。
+       。。。
+        。。。
+         。。。
+         。。。
+         。。。
+        。。。
+       。。。
+      。。。
+     。。。
+    。。。
+   。。。
+  。。。
+ 。。。
+。。。
+。。。
+。。。
+ 。。。
+  。。。
+   。。。
+    。。。
+     。。。
+      。。。
+       。。。
+        。。。
+         。。。
+         。。。
+         。。。
+        。。。
+       。。。
+      。。。
+     。。。
+    。。。
+   。。。
+  。。。
+ 。。。
+。。。
+。。。
+
+
+</pre>
+
+<font color="00ff04">
+⣿⣿⣿⣿⣿⣿⢟⣡⣴⣶⣶⣦⣌⡛⠟⣋⣩⣬⣭⣭⡛⢿⣿⣿⣿⣿<br>
+⣿⣿⣿⣿⠋⢰⣿⣿⠿⣛⣛⣙⣛⠻⢆⢻⣿⠿⠿⠿⣿⡄⠻⣿⣿⣿<br>
+⣿⣿⣿⠃⢠⣿⣿⣶⣿⣿⡿⠿⢟⣛⣒⠐⠲⣶⡶⠿⠶⠶⠦⠄⠙⢿<br>
+⣿⠋⣠⠄⣿⣿⣿⠟⡛⢅⣠⡵⡐⠲⣶⣶⣥⡠⣤⣵⠆⠄⠰⣦⣤⡀<br>
+⠇⣰⣿⣼⣿⣿⣧⣤⡸⢿⣿⡀⠂⠁⣸⣿⣿⣿⣿⣇⠄⠈⢀⣿⣿⠿<br>
+⣰⣿⣿⣿⣿⣿⣿⣿⣷⣤⣈⣙⠶⢾⠭⢉⣁⣴⢯⣭⣵⣶⠾⠓⢀⣴<br>
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣉⣤⣴⣾⣿⣿⣦⣄⣤⣤⣄⠄⢿⣿<br>
+⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠈⢿<br>
+⣿⣿⣿⣿⣿⣿⡟⣰⣞⣛⡒⢒⠤⠦⢬⣉⣉⣉⣉⣉⣉⣉⡥⠴⠂⢸<br>
+⠻⣿⣿⣿⣿⣏⠻⢌⣉⣉⣩⣉⡛⣛⠒⠶⠶⠶⠶⠶⠶⠶⠶⠂⣸⣿<br>
+⣥⣈⠙⡻⠿⠿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⠿⠛⢉⣠⣶⣶⣿⣿<br>
+	好的  我这就去学习
+	</center>
+</font>	
+</body>
+</html>
+
